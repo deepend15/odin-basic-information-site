@@ -1,4 +1,4 @@
-After initiation of `index.js` in the command line via .js, serves 4 different pages of an extremely basic informational site via:
+After initiation of `index.js` in the command line via Node.js, serves 4 different pages of an extremely basic informational site via:
 
 * [localhost:8080](http://localhost:8080/)
 * [localhost:8080/about](http://localhost:8080/about)
